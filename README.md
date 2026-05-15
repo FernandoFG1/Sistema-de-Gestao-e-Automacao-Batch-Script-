@@ -31,4 +31,4 @@ Para garantir a estabilidade do sistema, diversas tratativas foram implementadas
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone (https://github.com/FernandoFG1/Sistema-de-Gestao-e-Automacao-Batch-Script-)
